@@ -1,2 +1,4 @@
 https://github.com/barik111/Data-Structures-and-Algorithms-Specialization/tree/master/Data_Structures_and_Algorithms
 https://github.com/huyvohcmc/coursera-dsa
+https://www.youtube.com/watch?v=4oSqfmY9CWo
+
